@@ -14,6 +14,8 @@ My Tech Stack :<p align = "center">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Python%20-%23FF9900.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Firebase%20-%23430098.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GPT2%20-%23430098.svg?&style=for-the-badge&logo=GPT2&logoColor=white"/> 
+
 </p>
 
 ---
