@@ -20,12 +20,12 @@ My Tech Stack :<p align = "center">
 
 ---
 
-#### I'm an Flutter developer, and a Processing enthusiast
+#### I'm a Flutter developer, and keep fiddling with many stacks!
 
 
-- 🔭 I’m currently working on some flutter apps and a browser extension,[project-faccination](https://github.com/Chinmay-KB/project-faccination)
-- 🌱 I’m currently learning Python and Pandas
-- 👯 I’m looking to collaborate on Generative art
-- 💬 Ask me about memes
-- 📫 How to reach me: chinmay.kabi@live.com
-- ⚡ Fun fact:  I'm a full time memester, and a part time developer!
+- 🔭 I’m currently busy chilling out, and divert from Flutter to make these | [project-spampr](https://github.com/Chinmay-KB/project-spampr) | [project-kopie](https://github.com/Chinmay-KB/project-kopie) | [wp_pivot_flutter](https://github.com/Chinmay-KB/wp_pivot_flutter)
+- 🌱 I’m currently inclined to learn about making bots, and automating stuff.
+- 👯 If you want to work on automating any game, I'm game 😎
+- 💬 Ask me about memes, or anything that can bring memes and code together 🥳🥳
+- 📫 How to reach me: [Email](chinmay.kabi@live.com) | [Twitter](https://twitter.com/ChinuKabi) | [LinkedIn](https://www.linkedin.com/in/chinmaykabi/)
+- ⚡ Fun fact: I'd rather work on goofy ideas which go nowhere than on boring ideas and become popular
