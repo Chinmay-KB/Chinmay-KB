@@ -25,9 +25,9 @@ My Tech Stack :<p align = "center">
 #### I'm a Flutter developer, and keep fiddling with many stacks!
 
 
-- 🔭 I’m currently busy chilling out, and divert from Flutter to make these | [project-spampr](https://github.com/Chinmay-KB/project-spampr) | [project-kopie](https://github.com/Chinmay-KB/project-kopie) | [wp_pivot_flutter](https://github.com/Chinmay-KB/wp_pivot_flutter)
-- 🌱 I’m currently inclined to learn about making bots, and automating stuff.
-- 👯 If you want to work on automating any game, I'm game 😎
+- 🔭 I’m currently busy chilling out, and my latest project is also my first project developed end to end by me! | [readense](https://github.com/Chinmay-KB/readense) | [readense-backend](https://github.com/Chinmay-KB/readense-backend) | [project-spampr](https://github.com/Chinmay-KB/project-spampr)
+- 🌱 I’m currently tinkering around to make any kind of automation project.
+- 👯 I want to do one better than Codebullet 😎
 - 💬 Ask me about memes, or anything that can bring memes and code together 🥳🥳
 - 📫 How to reach me: [Email](chinmay.kabi@live.com) | [Twitter](https://twitter.com/ChinuKabi) | [LinkedIn](https://www.linkedin.com/in/chinmaykabi/)
 - ⚡ Fun fact: I'd rather work on goofy ideas which go nowhere than on boring ideas and become popular
