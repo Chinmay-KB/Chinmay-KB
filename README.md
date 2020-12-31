@@ -25,8 +25,8 @@ My Tech Stack :<p align = "center">
 #### I'm a Flutter developer, and keep fiddling with many stacks!
 
 
-- 🔭 I’m currently busy chilling out, and my latest project is also my first project developed end to end by me! | [readense](https://github.com/Chinmay-KB/readense) | [readense-backend](https://github.com/Chinmay-KB/readense-backend) | [project-spampr](https://github.com/Chinmay-KB/project-spampr)
-- 🌱 I’m currently tinkering around to make any kind of automation project.
+- 🔭 I’m currently working on the most comprehensive dart plugin for string manipulation! | [stringr](https://github.com/Chinmay-KB/stringr)
+- 🌱 I’m currently working on improving my grasp on state management and TDD
 - 👯 I want to do one better than Codebullet 😎
 - 💬 Ask me about memes, or anything that can bring memes and code together 🥳🥳
 - 📫 How to reach me: [Email](chinmay.kabi@live.com) | [Twitter](https://twitter.com/ChinuKabi) | [LinkedIn](https://www.linkedin.com/in/chinmaykabi/)
