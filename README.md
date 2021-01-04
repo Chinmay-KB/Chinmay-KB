@@ -25,7 +25,7 @@ My Tech Stack :<p align = "center">
 #### I'm a Flutter developer, and keep fiddling with many stacks!
 
 
-- 🔭 I’m currently working on the most comprehensive dart plugin for string manipulation! | [stringr](https://github.com/Chinmay-KB/stringr)
+- 🔭 I’m currently working on the most comprehensive dart plugin for string manipulation! | [stringr](https://github.com/Chinmay-KB/stringr) | It's published on [pub.dev](https://pub.dev/packages/stringr) now 😁😁
 - 🌱 I’m currently working on improving my grasp on state management and TDD
 - 👯 I want to do one better than Codebullet 😎
 - 💬 Ask me about memes, or anything that can bring memes and code together 🥳🥳
