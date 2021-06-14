@@ -4,6 +4,9 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Chinmay-KB&show_icons=true&theme=radical&layout=compact">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay-KB&hide=css,html&theme=tokyonight&layout=compact">
+  <img src = "https://github-profile-trophy.vercel.app/?username=Chinmay-KB&theme=onedark">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Chinmay-KB">
+
 </p>
 
 My Tech Stack :<p align = "center">
@@ -17,10 +20,15 @@ My Tech Stack :<p align = "center">
   <img src="https://img.shields.io/badge/Firebase%20-%23430098.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/> 
   <img src="https://img.shields.io/badge/GPT2%20-%23430098.svg?&style=for-the-badge&logo=GPT2&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript%20-%23430098.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+  ![](https://komarev.com/ghpvc/?username=Chinmay-KB&style=flat-square)
 
 </p>
 
 ---
+
+
+
+
 
 #### I'm a Flutter developer, and keep fiddling with many stacks!
 
