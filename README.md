@@ -26,10 +26,6 @@ My Tech Stack :<p align = "center">
 
 ---
 
-
-
-
-
 #### I'm a Flutter developer, and keep fiddling with many stacks!
 
 
@@ -39,6 +35,7 @@ My Tech Stack :<p align = "center">
 - 👯 I want to do one better than Codebullet 😎
 - 💬 Ask me about memes, or anything that can bring memes and code together 🥳🥳
 - 📫 How to reach me: [Email](chinmay.kabi@live.com) | [Twitter](https://twitter.com/ChinuKabi) | [LinkedIn](https://www.linkedin.com/in/chinmaykabi/)
-- ⚡ Fun fact: I'd rather work on goofy ideas which go nowhere than on boring ideas and become popular
+- ⚡ Fun fact: I'd rather work on goofy ideas which go nowhere than on boring ideas that become popular.
+- I write on [dev.to](https://dev.to/chinmaykb) and [Medium](https://chinmaykabi.medium.com/).
 
 ![IMG-20201105-WA0034](https://user-images.githubusercontent.com/13520364/111826267-7e831780-890e-11eb-813b-ac623c5907ae.jpg)
