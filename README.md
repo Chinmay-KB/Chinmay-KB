@@ -29,7 +29,7 @@ My Tech Stack :<p align = "center">
 #### I'm a Flutter developer, and keep fiddling with many stacks!
 
 
-- 🔭 I’m currently working on my first proper project where I'm making the backend | [pings-backend](https://github.com/Chinmay-KB/pings-backend)
+- 🔭 I’m currently working on my own discord music bot | [bajaobot](https://github.com/Chinmay-KB/bajaobot)
 - Best thing I have worked on this year is [stringr](https://github.com/Chinmay-KB/stringr). the most comprehensive string manipulation package for Flutter and Dart. It's published on [pub.dev](https://pub.dev/packages/stringr) now 😁😁
 - 🌱 I’m currently trying to make a habit of TDD and proper documentation, and a strict linter of course 💪
 - 👯 I want to do one better than Codebullet 😎
