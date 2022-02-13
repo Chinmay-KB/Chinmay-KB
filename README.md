@@ -38,5 +38,5 @@ My Tech Stack :<p align = "center">
 - ⚡ Fun fact: I'd rather work on goofy ideas which go nowhere than on boring ideas that become popular.
 - I write on [dev.to](https://dev.to/chinmaykb) and [Medium](https://chinmaykabi.medium.com/).
 
-![trigger_img](https://user-images.githubusercontent.com/13520364/153752710-2c82c79a-28d4-4cf8-8971-c8048cc794a9.png)
 
+![Flutter Developer Technical Author (2)](https://user-images.githubusercontent.com/13520364/153752744-91265f8f-bb69-4c9b-9b9f-5ab2c7733fb2.png)
