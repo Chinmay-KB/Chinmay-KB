@@ -38,4 +38,5 @@ My Tech Stack :<p align = "center">
 - ⚡ Fun fact: I'd rather work on goofy ideas which go nowhere than on boring ideas that become popular.
 - I write on [dev.to](https://dev.to/chinmaykb) and [Medium](https://chinmaykabi.medium.com/).
 
-![IMG-20201105-WA0034](https://user-images.githubusercontent.com/13520364/111826267-7e831780-890e-11eb-813b-ac623c5907ae.jpg)
+![trigger_img](https://user-images.githubusercontent.com/13520364/153752710-2c82c79a-28d4-4cf8-8971-c8048cc794a9.png)
+
