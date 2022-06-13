@@ -31,7 +31,7 @@ My Tech Stack :<p align = "center">
 
 ---
 
-#### I'm ~~just a Flutter developer~~ Flutter and React develoepr, and keep fiddling with many stacks!
+#### I'm ~~just a Flutter developer~~ Flutter and React developer, and keep fiddling with many stacks!
 
 
 - 🔭 I’m currently working on [Creepy Smiley](https://github.com/Chinmay-KB/creepysmiley) 🙂
