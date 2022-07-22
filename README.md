@@ -44,4 +44,4 @@ My Tech Stack :<p align = "center">
 - I write on [dev.to](https://dev.to/chinmaykb) and [Medium](https://chinmaykabi.medium.com/).
 
 
-![Flutter Developer Technical Author (2)](https://user-images.githubusercontent.com/13520364/153752744-91265f8f-bb69-4c9b-9b9f-5ab2c7733fb2.png)
+![Flutter Developer Technical Author (2)](https://github.com/Chinmay-KB/Chinmay-KB/blob/master/Flutter%20Developer%20Technical%20Author%20(4).png?raw=true)
