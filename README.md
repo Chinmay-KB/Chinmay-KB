@@ -34,9 +34,10 @@ My Tech Stack :<p align = "center">
 #### I'm ~~just a Flutter developer~~ Flutter and React developer, and keep fiddling with many stacks!
 
 
-- 🔭 I’m currently working on [Creepy Smiley](https://github.com/Chinmay-KB/creepysmiley) 🙂
+- 🔭 I’m an SDE at [blend](https://www.blendnow.com/), working on the mobile side of things (Good luck to them 🥹)
+- 💪 Currently working on [dynamic_icon_launcher](https://github.com/Chinmay-KB/dynamic_launcher_icon) for flutter. Go on and read the readme to know why it is a big deal 😌
 - 🫂 I need support reviving [awesome dart](https://github.com/yissachar/awesome-dart) repo, of which I am a maintainer now.
-- 🌱 Too much fluttering done, now I'm Reacting 🥸
+- 🌱 Too much fluttering done, now I'm Reacting as well 🥸
 - 👯 I want to do one better than Codebullet 😎
 - 💬 Ask me about memes, or anything that can bring memes and code together 🥳🥳
 - 📫 How to reach me: [Email](chinmay.kabi@live.com) | [Twitter](https://twitter.com/ChinuKabi) | [LinkedIn](https://www.linkedin.com/in/chinmaykabi/)
